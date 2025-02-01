@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_HUB_USER = 'bhoomika720'
-        DOCKER_HUB_REPO = 'nginximage'
+        DOCKER_HUB_REPO = 'jenkin'
         IMAGE_NAME = 'nginx'
         CONTAINER_NAME = 'app'
         DOCKER_HUB_PASS = 'dockeraccount'  
